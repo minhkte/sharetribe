@@ -1,0 +1,17 @@
+{
+  "name": "sharetribe",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "stack": "container",
+  "buildpacks": [
+
+  ]
+}
